@@ -1,2 +1,5 @@
 GitHub — это платформа для хранения кода и совместной разработки проектов.  
 Её используют разработчики, студенты и компании по всему миру.
+kasutan GitHubi oma kooliprojektide ja programmeerimise harjutuste hoidmiseks.
+GitHub Inc. asutati 2008. aastal Tom Preston-Werneri, Chris Wanstrathi ja PJ Hyetti poolt.  
+GitHubi teenus tehti avalikkusele kättesaadavaks samuti 2008. aastal.
